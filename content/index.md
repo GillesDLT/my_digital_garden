@@ -1,8 +1,6 @@
 ---
 title: Bienvenue sur le portfolio de Gilles de La Tousche
 ---
-# 👋 Bienvenue sur le portfolio de Gilles DLT
-
 Si vous êtes ici, ce n’est sans doute pas par hasard — alors commençons les présentations.
 
 Je m’appelle **Gilles de La Touche**, j’ai **21 ans** et je suis **apprenti ingénieur**.  
