@@ -2,7 +2,7 @@
 Cet onglet **recense tous les projets et idées qui m’animent**.  
 Ce sont ceux qui me prennent mes soirées, stimulent ma créativité et surtout me passionnent.
 
-Tu y trouveras trois catégories :
+Vous y trouverez trois catégories :
 
 - [[Projets accomplis]] — mes réalisations terminées, mais toujours vivantes et que je continue parfois à améliorer
     
