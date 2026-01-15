@@ -13,7 +13,6 @@ Bureau de maîtrise dimensionnelle – pièces semi-rigides et souples.
 
 ## Compétences mobilisées
 - [[Tolérancement]]
-- [[Gestion de projet]]
 - [[CAO]]
 - [[Documentation technique]]
 
