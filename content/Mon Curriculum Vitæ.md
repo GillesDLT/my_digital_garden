@@ -30,7 +30,7 @@ l’outillage, la R&D et les projets techniques de bout en bout.
 ---
 
 ## Compétences
-- [[LaTeX]]
+- [[docs/plugins/Latex]]
 - [[CAO]]
 - [[Tolérancement]]
 - [[Gestion de projet]]

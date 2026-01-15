@@ -14,9 +14,9 @@ Curieux, passionné par la création et les technologies, j’aime comprendre co
 
 ## 🧭 Explorer le site
 
-Ce portfolio (éternellement en construction 🚧) a pour but de :
+Ce portfolio a pour but de :
 - D'agir comme [[Mon Curriculum Vitæ]] en ligne
-- présenter mes [[mes Projets]] passés, actuels et futurs
+- présenter [[mes Projets]] passés, actuels et futurs
 - expliquer pourquoi j’ai voulu créer ce site, comment j'utilise [[Obsidian]] 
 - partager ce qui m’intéresse, m’inspire et me fait évoluer
 
