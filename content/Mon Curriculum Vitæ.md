@@ -21,14 +21,6 @@ l’outillage, la R&D et les projets techniques de bout en bout.
 
 ---
 
-## Projets représentatifs
-- [[Configuration Hyprland]]
-- [[Document LaTeX complexe]]
-- [[Conception d’un clavier custom]]
-- [[Digital Garden]]
-
----
-
 ## Compétences
 - [[docs/plugins/Latex]]
 - [[CAO]]

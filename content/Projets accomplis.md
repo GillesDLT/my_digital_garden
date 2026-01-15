@@ -2,7 +2,7 @@ Ces projets sont pour moi des **réalisations achevées**, mais ils restent **vi
 Ils représentent des étapes importantes dans mon apprentissage et mon exploration de nouvelles technologies.
 
 ---
-# 🐧 Linux 🐧
+## 🐧 Linux 🐧
 
 L’un de mes projets les plus marquants a été de **migrer complètement ma machine sur Linux**, plus précisément sur la distribution [CachyOS](https://wiki.cachyos.org/fr/).
 
@@ -26,3 +26,23 @@ Ce projet m’a permis de créer un **poste de travail sur mesure**, parfaitemen
 Même s’il est “terminé”, je continue à l’améliorer régulièrement pour l’optimiser ou tester de nouvelles idées.
 
 ---
+## 📄 Rédaction d’une notice LaTeX 📄
+
+Comme vous avez peut-être pu le réaliser j'apprécie rédiger des **documentations**, que ce soit pour me souvenir de ce que j'ai pu apprendre ou de structurer mes méthodes de partager des connaissances avec d’autres
+    
+
+C’est dans cet esprit que j’ai commencé à écrire une **documentation LaTeX**, que je complète de temps en temps.
+
+À l’origine, le but était simplement de me créer une référence personnelle :
+- structure de mes documents
+- intégration des images
+- création de tableaux
+- gestion des références et bibliographies
+- et d'autres options utiles
+    
+
+Avec le temps, cette documentation est devenue suffisamment claire pour être partagée avec des amis, qui l’ont utilisée pour :
+
+- rédiger leurs **rapports de stage**
+- écrire des **rapports académiques**
+- mieux comprendre le LaTeX
